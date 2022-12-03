@@ -32,3 +32,32 @@
     * localhost:8081/customers :
     
 <img src="" height="500" width="400">
+
+
+3_ Création de la Gateway Spring cloud Gateway avec une Configuration statique du système de routage :
+      
+      * Configuration à l'aide de fichier yaml :
+      
+<img src="" height="500" width="400">      
+      
+      * Configuration à l'aide de code java :
+
+<img src="" height="500" width="400">
+
+
+4_ Création de l'annuaire Eureka Discrovery Service :
+
+<img src="" height="500" width="400">      
+
+
+5_ Configuration dynamique des routes de la gateway :
+
+<img src="" height="500" width="400">      
+
+
+6_ Création du service de facturation Billing-Service en utilisant Open Feign :
+
+<img src="" height="500" width="400">      
+
+
+7_ Création du client Web Angular (Clients, Produits, Factures) :
