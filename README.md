@@ -42,7 +42,7 @@
       
       * Configuration à l'aide de code java :
 
-<img src="https://user-images.githubusercontent.com/80221042/209436397-7b1a5c12-bf0d-473e-990d-03b60ca1dc47.PNG" height="500" width="400">
+<img src="https://user-images.githubusercontent.com/80221042/209436397-7b1a5c12-bf0d-473e-990d-03b60ca1dc47.PNG" height="500" width="900">
 
 
 4_ Création de l'annuaire Eureka Discrovery Service :
@@ -57,7 +57,7 @@
 
 6_ Création du service de facturation Billing-Service en utilisant Open Feign :
 
-<img src="https://user-images.githubusercontent.com/80221042/209436420-2915aa3b-e00f-43fe-8dff-efdc3fd4a375.PNG" height="500" width="900">      
+<img src="https://user-images.githubusercontent.com/80221042/209436420-2915aa3b-e00f-43fe-8dff-efdc3fd4a375.PNG" height="500" width="400">      
 
 
 7_ Création du client Web Angular (Clients, Produits, Factures) :
