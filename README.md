@@ -23,11 +23,11 @@
 
     * Entité Product :
     
-<img src="https://user-images.githubusercontent.com/80221042/209436308-f349eff9-a883-4392-8944-baa9c1bf0283.PNG" height="500" width="400">
+<img src="https://user-images.githubusercontent.com/80221042/209436308-f349eff9-a883-4392-8944-baa9c1bf0283.PNG" height="500" width="900">
     
     * Repository Product :
     
-<img src="https://user-images.githubusercontent.com/80221042/209436316-ba9597a4-b82a-49cc-8f8a-1e6434e40b8e.PNG" height="500" width="400">
+<img src="https://user-images.githubusercontent.com/80221042/209436316-ba9597a4-b82a-49cc-8f8a-1e6434e40b8e.PNG" height="500" width="900">
 
     * localhost:8081/products :
     
@@ -47,17 +47,17 @@
 
 4_ Création de l'annuaire Eureka Discrovery Service :
 
-<img src="https://user-images.githubusercontent.com/80221042/209436403-a0500f76-3943-4f76-8130-9044e07922b0.PNG" height="500" width="400">      
+<img src="https://user-images.githubusercontent.com/80221042/209436403-a0500f76-3943-4f76-8130-9044e07922b0.PNG" height="500" width="900">      
 
 
 5_ Configuration dynamique des routes de la gateway :
 
-<img src="https://user-images.githubusercontent.com/80221042/209436412-ed27c909-7f76-4feb-b068-6cffe6da9d94.PNG" height="500" width="400">      
+<img src="https://user-images.githubusercontent.com/80221042/209436412-ed27c909-7f76-4feb-b068-6cffe6da9d94.PNG" height="500" width="900">      
 
 
 6_ Création du service de facturation Billing-Service en utilisant Open Feign :
 
-<img src="https://user-images.githubusercontent.com/80221042/209436420-2915aa3b-e00f-43fe-8dff-efdc3fd4a375.PNG" height="500" width="400">      
+<img src="https://user-images.githubusercontent.com/80221042/209436420-2915aa3b-e00f-43fe-8dff-efdc3fd4a375.PNG" height="500" width="900">      
 
 
 7_ Création du client Web Angular (Clients, Produits, Factures) :
