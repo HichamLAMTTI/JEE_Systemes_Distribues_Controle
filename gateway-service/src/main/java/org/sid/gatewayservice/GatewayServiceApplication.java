@@ -16,6 +16,15 @@ public class GatewayServiceApplication {
 		SpringApplication.run(GatewayServiceApplication.class, args);
 	}
 
+	// --> Configuration statique
+	//@Bean
+	RouteLocator routeLocator(RouteLocatorBuilder routeLocatorBuilder){
+		return routeLocatorBuilder.routes()
+				.route((r) -> r.path("/customers/**").uri("lb://CUSTOMER-SERVICE"))
+				.route((r) -> r.path("/products/**").uri("lb://PRODUCT-SERVICE"))
+				.build();
+	}
+
 	@Bean
 	DiscoveryClientRouteDefinitionLocator definitionLocator(
 			ReactiveDiscoveryClient rdc,
